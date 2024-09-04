@@ -1,3 +1,11 @@
+# Prueba Tecnica JavaScript + Node.js
+Ejercicios de asincronía
+Callbacks vs. Promesas
+Creación de API Rest
+Encontrar errores en eI código
+Buenas prácticas y refactorización
+
+
 # Prueba Técnica JavaScript + Node.js
 
 Escribe las soluciones en el archivo `solutions/index.js` manteniendo el nombre de las funciones y sus `export`. Usa `ESModules` en tu proyecto de Node.js
